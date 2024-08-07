@@ -1,0 +1,1 @@
+C:\Users\SAMSUNG\source\repos\MyProjectWithoutDocker\shopIndex\obj\Debug\shopindex.esproj.CoreCompileInputs.cache
